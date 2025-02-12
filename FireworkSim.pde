@@ -18,8 +18,6 @@ void setup() {
   for (int i = 0; i < numFireworks; i++) {
     fireworks.add(new Firework(i * 0.5));
   }
-  
-  
 }
 
 void draw() {
